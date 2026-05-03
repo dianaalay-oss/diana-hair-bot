@@ -1,0 +1,1 @@
+worker: pythone main.py
